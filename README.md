@@ -16,4 +16,6 @@ This CAE is an improved version I've been working on for the last year as a side
   - I'll be working on a GUI for the project to make it a viable compressing tool
   - Plan on adding an extra compression option that would use blur on the objects in the background adding a boca effect to the pictures and thus hopefully reducing the amount of high frequency elements in the pictures, reducing the space needed for compression.
   
-
+# Current Results
+  - The results from the different structures can be found here: https://docs.google.com/spreadsheets/d/1O-tJ4gmN9WLuyeUp-tY2MAou6w0m0acFocCmNF2HcbM/edit?usp=sharing
+  

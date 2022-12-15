@@ -2,7 +2,7 @@
 
 This CAE is an improved version I've been working on for the last year as a side project from my bachelor's final year project A2VO, which you can also find the structure in the separate folder with the complete report.
 
-- Main differences: activation functions, jump connections, dataset preprocessing, latent space compression and the use off pixelunshuffle along side the previously used pixelshuffle
+- Main differences: activation functions, jump connections, dataset preprocessing, latent space compression and the use of pixelunshuffle along side the previously used pixelshuffle
 
 # Training information
   - Relevant graphs and results can be found in the RESULTS folder
